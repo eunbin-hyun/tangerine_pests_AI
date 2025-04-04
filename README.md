@@ -8,10 +8,11 @@
 라즈베리파이5와 ai가속기(Hailo8L)을 이용한 감귤병충해 ai 판별 기기
 
 yolov8n를 이용해 객체를 인식함
+<br />
+
 ![howai](https://github.com/user-attachments/assets/9f780004-55ea-4822-b853-405b9c2199ed)
 
 
-<br />
 
 ### 파일변환을 통해 AI와 HW결합
 
