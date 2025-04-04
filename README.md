@@ -2,7 +2,7 @@
 감귤병해충 판별 AI 로봇
 
 <img src="https://github.com/user-attachments/assets/10dbac9d-d28b-4a6a-b843-4faa15b473d3" width="50%; float: left; display: inline-block;"  />
-<img src="https://github.com/user-attachments/assets/715463af-26f0-4858-9ce2-e39c1c34f0fe" width="50%; float: left; display: inline-block;" />
+<img src="https://github.com/user-attachments/assets/715463af-26f0-4858-9ce2-e39c1c34f0fe" width="50%; float: right; display: inline-block;" />
 
 
 
