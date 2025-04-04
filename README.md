@@ -1,5 +1,8 @@
 # tangerine_pests_AI
 감귤병해충 판별 AI 로봇
 
-<figure class="half">  <a href="link"><img src="![작품3D모델_정사각형](https://github.com/user-attachments/assets/46a4a238-3ebb-435e-896c-e601157fe37f)"></a>  <a href="link"><img src="![처리과정](https://github.com/user-attachments/assets/74a6d3e1-2d40-4704-9b3d-7be243dc0fcd)"></a>  <figcaption>2개이미지.</figcaption></figure>
+<img src="[image1.png](https://github.com/user-attachments/assets/10dbac9d-d28b-4a6a-b843-4faa15b473d3)" width="50%" /> <img src="[image2.png](https://github.com/user-attachments/assets/715463af-26f0-4858-9ce2-e39c1c34f0fe)" width="50%" />
 
+
+![처리과정](https://github.com/user-attachments/assets/10dbac9d-d28b-4a6a-b843-4faa15b473d3)
+![작품3D모델_정사각형](https://github.com/user-attachments/assets/715463af-26f0-4858-9ce2-e39c1c34f0fe)
