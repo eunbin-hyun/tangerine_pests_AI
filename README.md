@@ -19,5 +19,7 @@ yolov8n를 이용해 객체를 인식함
 
   AI학습파일(pt) -> onnx파일 -> hef파일 
 
-![1](https://github.com/user-attachments/assets/2e7b42cb-b431-4e3a-8386-ab1e7a63e2b2)
-결과
+<br />
+
+### AI인식
+![2](https://github.com/user-attachments/assets/08324458-4890-4113-a323-a348fbd26d82)
