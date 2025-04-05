@@ -22,4 +22,4 @@ yolov8n를 이용해 객체를 인식함
 <br />
 
 ### AI인식
-![2](https://github.com/user-attachments/assets/08324458-4890-4113-a323-a348fbd26d82)
+![1](https://github.com/user-attachments/assets/de24dcf7-7528-4f33-93fb-3340a995757d)
