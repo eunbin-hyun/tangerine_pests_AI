@@ -37,7 +37,8 @@ yolov8n를 이용해 객체를 인식함
 ## 📐 System Architecture
 | 3D 모델링 | 처리 과정 |
 |-----------|-----------|
-| ![3D 모델](이미지경로) | ![처리 과정](이미지경로) |
+![작품3D모델_정사각형2](https://github.com/user-attachments/assets/561bceac-5aa4-4ca8-92ed-3836c5d8cd89) | ![처리과정](https://github.com/user-attachments/assets/4103ab83-3d87-4683-a295-9508ccc65937)
+---|---|
 | **로봇 하드웨어** : 카메라, Raspberry Pi 5, Hailo-8L NPU | **AI 파이프라인** : 촬영→데이터 전처리→YOLOv8 추론→결과 시각화 |
 
 ---
@@ -51,7 +52,7 @@ yolov8n를 이용해 객체를 인식함
 
 ## ⚙️ Hardware Integration
 - Raspberry Pi 5 + Hailo-8L NPU
-- YOLOv8 → onnx 변환 → hef 파일 최적화
+- pt → onnx 변환 → hef 파일 최적화
 - 실시간 탐지 FPS: **xx.xx** (실험치)
 
 ---
