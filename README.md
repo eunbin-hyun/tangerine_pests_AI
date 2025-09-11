@@ -47,7 +47,7 @@
 
 | 감귤 궤양병 탐지 결과 |
 |:--------------------:|
-| <img src="https://github.com/user-attachments/assets/2fde7039-123d-4205-8278-411afc4c127a" width="300" /> |
+| <img src="https://github.com/user-attachments/assets/2fde7039-123d-4205-8278-411afc4c127a" width="400" /> |
 | 실제 병해충 이미지를 실시간으로 탐지 및 확률 표시 (ex. `tangerines_canker:0.90`) |
 
 
