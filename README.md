@@ -25,7 +25,7 @@
 ## 🧠 AI 개발 과정
 | 데이터 구축 | AI 모델 학습 | AI 모델 적용 |
 |-------------|-------------|-------------|
-| 자체 촬영 + 라벨링 | YOLOv8 Segmentation 학습 | Hailo DFC/HEF 변환 및 임베디드 추론 |
+| AI-hub 데이터 + 자체 촬영 + 라벨링 | YOLOv8 Segmentation 학습 | Hailo DFC/HEF 변환 및 임베디드 추론 |
 
 ---
 
