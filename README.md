@@ -15,14 +15,15 @@
 ![작품3D모델_정사각형2](https://github.com/user-attachments/assets/561bceac-5aa4-4ca8-92ed-3836c5d8cd89) | ![처리과정](https://github.com/user-attachments/assets/4103ab83-3d87-4683-a295-9508ccc65937) |
 | **로봇 하드웨어** : 카메라, Raspberry Pi 5, Hailo-8L NPU | **AI 파이프라인** : 촬영→YOLOv8 추론→결과 시각화 |
 
----
+<br/>
 
 ## 🧠 AI 개발 과정
 | 데이터 구축 | AI 모델 학습 | AI 모델 적용 |
 |-------------|-------------|-------------|
 | AI-Hub 데이터 + 자체 촬영 + 라벨링 | YOLOv8 Segmentation 학습 | Hailo DFC/HEF 변환 및 임베디드 추론 |
 
----
+<br/>
+
 
 ## ⚙️ Hardware Integration
 - Raspberry Pi 5 + Hailo-8L NPU
