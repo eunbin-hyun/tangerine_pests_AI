@@ -9,7 +9,18 @@
 - **주요 기술** : YOLOv8 + Raspberry Pi + Hailo-8L NPU
 - **역할** : 데이터셋 구축, AI 모델 학습 및 HW 통합
 
----
+<br>
+
+## ⚙️ Tech Stack
+### 🚀 Hardware
+- **Raspberry Pi 5** – 실시간 영상 처리 및 제어
+-  **Hailo-8L NPU** – AI 가속 및 모델 최적화
+
+### 💻 Software
+- **YOLOv8** – 병해충 탐지
+- **ONNX / Hailo DFC** – 모델 변환 및 HEF 빌드
+
+<br>
 
 
 ## 📐 System Architecture
@@ -57,12 +68,5 @@
   - 출원번호 : `10-2025-0016861`  
   - [출원서 (PDF)](<docs/10-2025-0016861_특허출원서.pdf>)
 
----
 
-## 💻 Tech Stack
-| Hardware | Software |
-|----------|----------|
-| **Raspberry Pi 5** – 실시간 추론 및 제어 | **YOLOv8** – 병해충 탐지 |
-| **Hailo-8L NPU** – AI 가속 및 모델 최적화 | **ONNX / Hailo DFC** – 모델 변환 및 HEF 빌드 |
- 
 
