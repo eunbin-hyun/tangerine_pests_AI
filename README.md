@@ -1,24 +1,8 @@
-# tangerine_pests_AI
-### 감귤병해충 판별 AI 로봇
 
-
-라즈베리파이5와 ai가속기(Hailo8L)을 이용한 감귤병충해 ai 판별 기기
-
-yolov8n를 이용해 객체를 인식함
-
-<br />
 
 ![howai](https://github.com/user-attachments/assets/9f780004-55ea-4822-b853-405b9c2199ed)
 
 
-
-### 파일변환을 통해 AI와 HW결합
-
-  AI학습파일(pt) -> onnx파일 -> hef파일 
-
-<br />
-
-### AI인식
 
 # 🍊 tangerine_pests_AI
 감귤병해충 방제 AI 로봇
@@ -54,7 +38,7 @@ yolov8n를 이용해 객체를 인식함
 
 ## 🔎 실험 결과
 | 감귤 궤양병 탐지 결과 |
-|![1](https://github.com/user-attachments/assets/de24dcf7-7528-4f33-93fb-3340a995757d)|
+|[1](https://github.com/user-attachments/assets/de24dcf7-7528-4f33-93fb-3340a995757d)|
 | 실제 병해충 이미지를 실시간으로 탐지 및 확률 표시 (ex. `tangerines_canker:0.90`) |
 
 ---
