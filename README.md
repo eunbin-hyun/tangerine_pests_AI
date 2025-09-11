@@ -2,12 +2,15 @@
 # 🍊 tangerine_pests_AI
 감귤병해충 방제 AI 로봇
 
+<br/>
+
 ## 프로젝트 개요
 - **목적** : 제주 감귤농장에서 발생하는 병해충을 AI로 실시간 탐지·분류
 - **주요 기술** : YOLOv8 Segmentation + Raspberry Pi + Hailo-8L NPU
 - **역할** : 데이터셋 구축, AI 모델 학습 및 HW 통합
 
----
+<br/>
+
 
 ## 📐 System Architecture
 | 3D 모델링 | 처리 과정 |
