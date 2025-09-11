@@ -33,7 +33,7 @@
 - pt → onnx 변환 → hef 파일 최적화
 
 
-<br/>
+---
 
 
 ## 🔎 실험 결과
@@ -44,7 +44,7 @@
 | 실제 병해충 이미지를 실시간으로 탐지 및 확률 표시 (ex. `tangerines_canker:0.90`) |
 
 
----
+<br/>
 
 ## 🏆 Achievements & Publications
 - **수상**
