@@ -33,7 +33,7 @@
 
 ## 🔎 실험 결과
 | 감귤 궤양병 탐지 결과 |
-|(https://github.com/user-attachments/assets/de24dcf7-7528-4f33-93fb-3340a995757d)|
+|![탐지](https://github.com/user-attachments/assets/de24dcf7-7528-4f33-93fb-3340a995757d)|
 | 실제 병해충 이미지를 실시간으로 탐지 및 확률 표시 (ex. `tangerines_canker:0.90`) |
 
 ---
