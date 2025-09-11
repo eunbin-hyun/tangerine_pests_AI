@@ -1,9 +1,4 @@
 
-
-![howai](https://github.com/user-attachments/assets/9f780004-55ea-4822-b853-405b9c2199ed)
-
-
-
 # 🍊 tangerine_pests_AI
 감귤병해충 방제 AI 로봇
 
@@ -38,7 +33,7 @@
 
 ## 🔎 실험 결과
 | 감귤 궤양병 탐지 결과 |
-|[1](https://github.com/user-attachments/assets/de24dcf7-7528-4f33-93fb-3340a995757d)|
+|(https://github.com/user-attachments/assets/de24dcf7-7528-4f33-93fb-3340a995757d)|
 | 실제 병해충 이미지를 실시간으로 탐지 및 확률 표시 (ex. `tangerines_canker:0.90`) |
 
 ---
