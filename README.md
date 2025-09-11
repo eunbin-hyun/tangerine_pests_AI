@@ -19,7 +19,6 @@ yolov8n를 이용해 객체를 인식함
 <br />
 
 ### AI인식
-![1](https://github.com/user-attachments/assets/de24dcf7-7528-4f33-93fb-3340a995757d)
 
 # 🍊 tangerine_pests_AI
 감귤병해충 방제 AI 로봇
@@ -54,9 +53,8 @@ yolov8n를 이용해 객체를 인식함
 ---
 
 ## 🔎 실험 결과
-| 감귤 궤양병 실측 | 탐지 결과 |
-|-----------------|----------|
-| ![원본 이미지](이미지경로) | ![AI 결과](이미지경로) |
+| 감귤 궤양병 탐지 결과 |
+|![1](https://github.com/user-attachments/assets/de24dcf7-7528-4f33-93fb-3340a995757d)|
 | 실제 병해충 이미지를 실시간으로 탐지 및 확률 표시 (ex. `tangerines_canker:0.90`) |
 
 ---
