@@ -20,14 +20,14 @@
 ## 🧠 AI 개발 과정
 | 데이터 구축 | AI 모델 학습 | AI 모델 적용 |
 |-------------|-------------|-------------|
-| AI-hub 데이터 + 자체 촬영 + 라벨링 | YOLOv8 Segmentation 학습 | Hailo DFC/HEF 변환 및 임베디드 추론 |
+| AI-Hub 데이터 + 자체 촬영 + 라벨링 | YOLOv8 Segmentation 학습 | Hailo DFC/HEF 변환 및 임베디드 추론 |
 
 ---
 
 ## ⚙️ Hardware Integration
 - Raspberry Pi 5 + Hailo-8L NPU
 - pt → onnx 변환 → hef 파일 최적화
-- 실시간 탐지 FPS: **xx.xx** (실험치)
+
 
 ---
 
@@ -42,10 +42,12 @@
 ---
 
 ## 🏆 Achievements & Publications
-- **수상** : 2024 지식재산(IP) 창업·발명 경진대회 **동상**  
-  - 감귤병해충 방제 AI 로봇 개발 및 상용화 제안
-- **특허 출원** : **딥러닝 기반 병해충 감지 장치 및 방법**  
-  - 출원번호 : `10-2024-XXXXX`  
+- **수상**
+  - 2024 지식재산(IP) 창업·발명 경진대회 **동상**  
+  - 2024 제 32회 설계 및 팀프로젝트 작품전시회 **최우수상**
+  - 2024-2학기 캡스톤 디자인 결과발표회 **장려상**
+- **특허 출원** : **감귤 병충해 실시간 진단 및 예방 장치**  
+  - 출원번호 : `10-2025-0016861`  
   - [출원서 (PDF)](docs/tangerine_pests_patent.pdf)
 
 ---
@@ -53,7 +55,7 @@
 ## 💻 Tech Stack
 | Hardware | Software |
 |----------|----------|
-| **Raspberry Pi 5** – 실시간 추론 및 제어 | **YOLOv8 Segmentation** – 병해충 탐지 |
-| **Hailo-8L NPU** – AI 가속 및 모델 최적화 | **OpenCV** – 이미지 전처리 및 시각화 |
-| **Camera Module** – 실시간 촬영 | **ONNX / Hailo DFC** – 모델 변환 및 HEF 빌드 |
+| **Raspberry Pi 5** – 실시간 추론 및 제어 | **YOLOv8** – 병해충 탐지 |
+| **Hailo-8L NPU** – AI 가속 및 모델 최적화 | **ONNX / Hailo DFC** – 모델 변환 및 HEF 빌드 |
+| **Camera Module** – 실시간 촬영 |  
 
